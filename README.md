@@ -24,7 +24,7 @@ An iOS and Android mobile app for coordinating housemates' social events, chores
 
 **Main Contributions**: Angular and Ionic, along with refactoring and modularizing the back-end
 
-**Source Code**: [Github.com/AESM/OurHouse_Central_Repo](#https://github.com/AESM/OurHouse_Central_Repo)
+**Source Code**: [Github.com/AESM/OurHouse_Central_Repo](https://github.com/AESM/OurHouse_Central_Repo)
 
 ### Commander's Paramour
 A Connect Four clone playable in a web browser.
@@ -33,7 +33,7 @@ A Connect Four clone playable in a web browser.
 
 **Features**: Two-player capabilities (shared screen or two browsers)
 
-**Source Code**: [Github.com/AESM/CommandersParamour](#https://github.com/AESM/CommandersParamour)
+**Source Code**: [Github.com/AESM/CommandersParamour](https://github.com/AESM/CommandersParamour)
 
 ### KittyParty
 A team chat app where users can only communicate in GIFs with messages.
@@ -42,16 +42,16 @@ A team chat app where users can only communicate in GIFs with messages.
 
 **Features**: Tokenizes and translates a user's message into a GIF through the Giphy API
 
-**Source Code**: [Github.com/AESM/KittyParty](#https://github.com/AESM/KittyParty)
+**Source Code**: [Github.com/AESM/KittyParty](https://github.com/AESM/KittyParty)
 
 ### RAPTORSMACSS
-A Sass (SCSS) boilerplate, inspired by [SMACSS](#https://smacss.com/).
+A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 
 **Technologies**: Sass (SCSS)
 
 **Features**: Provides a highly modular and organized SCSS boilerplate
 
-**Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](#https://github.com/SuitAndCape/RAPTORSMACSS)
+**Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
 
 ### FunkyAnimatronicMoccasinHenchmen
 
@@ -63,7 +63,7 @@ A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Features**: An organized and useful SCSS package
 
-**Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMoccasinHenchmen](#https://github.com/SuitAndCape/FunkyAnimatronicMoccasinHenchmen)
+**Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMoccasinHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMoccasinHenchmen)
 --------------------------------------------------------------------------
 
 ## License
