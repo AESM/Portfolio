@@ -11,7 +11,7 @@ Projects by Ali
   + [Commander's Paramour](#commanders-paramour)
   + [KittyParty](#kittyparty)
   + [RAPTORSMACSS](#raptorsmacss)
-  + [FunkyAnimatronicMoccasinHenchmen](#funkyanimatronicmoccasinhenchmen)
+  + [FunkyAnimatronicMixologyHenchmen](#funkyanimatronicmixologyhenchmen)
 - [License](#license)
 - [Connect](#connect)
 
@@ -44,6 +44,8 @@ A team chat app where users can only communicate in GIFs with messages.
 
 **Source Code**: [Github.com/AESM/KittyParty](https://github.com/AESM/KittyParty)
 
+**Wireframe**: [Wireframe branch](https://github.com/AESM/KittyParty/tree/wireframe)
+
 ### RAPTORSMACSS
 A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 
@@ -53,24 +55,24 @@ A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 
 **Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
 
-### FunkyAnimatronicMoccasinHenchmen
+### FunkyAnimatronicMixologyHenchmen
 
 #### Work in Progress
-
 A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Technologies**: Sass (SCSS)
 
-**Features**: An organized and useful SCSS package
+**Features**: An organized toolset which includes CSS3 animation presets, mixins and functions that help developers write DRY code, and frequently used properties in the form of helpers.
 
-**Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMoccasinHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMoccasinHenchmen)
+**Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
+
 --------------------------------------------------------------------------
 
 ## License
 
 These [projects](#projects) are copyright © 2013-2016 Ali Esmaili | SuitAndCape.  To find out more information about the particular license each project contains, please see the project's repo.
 
-The [LICENSE](https://github.com/AESM/Projects/blob/master/LICENSE) for this particular repo is based on [The MIT License (MIT)](http://opensource.org/licenses/MIT).  For more information, visit the [Open Source Initiative](http://opensource.org/) website.
+The [LICENSE](https://github.com/AESM/Projects/blob/master/LICENSE) for this repo is based on [The MIT License (MIT)](http://opensource.org/licenses/MIT).  For more information, visit the [Open Source Initiative](http://opensource.org/) website.
 
 ## Connect
 
