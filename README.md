@@ -51,18 +51,18 @@ A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 
 **Technologies**: Sass (SCSS)
 
-**Features**: Provides a highly modular and organized SCSS boilerplate
+**Features**: A highly modular and organized Sass (SCSS) boilerplate, loosely inspired by the SMACSS architecture pattern.  The naming convention is BEM based at its roots, but implemented in a way that the user can use whichever naming convention they prefer
 
 **Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
 
 ### FunkyAnimatronicMixologyHenchmen
 
-#### Work in Progress
+#### _Work in Progress_
 A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Technologies**: Sass (SCSS)
 
-**Features**: An organized toolset which includes CSS3 animation presets, mixins and functions that help developers write DRY code, and frequently used properties in the form of helpers.
+**Features**: An organized Sass (SCSS) toolset which includes CSS3 animation presets, mixins and functions that help developers write DRY code, and frequently used properties in the form of helpers.
 
 **Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
 
