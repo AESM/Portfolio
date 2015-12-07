@@ -12,6 +12,9 @@ Projects by Ali
   + [KittyParty](#kittyparty)
   + [RAPTORSMACSS](#raptorsmacss)
   + [FunkyAnimatronicMixologyHenchmen](#funkyanimatronicmixologyhenchmen)
+- [Websites](#websites)
+  + [SuitAndCape](#suitandcape)
+  + [e-dapp](#e-dapp)
 - [License](#license)
 - [Connect](#connect)
 
@@ -65,6 +68,26 @@ A Sass (SCSS) function, animation/transition, mixin, and helper library.
 **Features**: An organized Sass (SCSS) toolset which includes CSS3 animation presets, mixins and functions that help developers write DRY code, and frequently used properties in the form of helpers.
 
 **Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
+
+## Websites
+
+### SuitAndCape
+My personal website and portfolio.
+
+**Website**: [SuitAndCape.github.io](https://SuitAndCape.github.io/)
+
+**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS
+
+**Source Code**: [Github.com/SuitAndCape/SuitAndCape.github.io](https://github.com/SuitAndCape/SuitAndCape.github.io)
+
+### e-dapp
+A portfolio for Eric Lawrence Dapp.
+
+**Website**: [e-dapp.github.io](https://e-dapp.github.io/)
+
+**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS
+
+**Source Code**: [Github.com/e-dapp/e-dapp.github.io](https://github.com/e-dapp/e-dapp.github.io)
 
 --------------------------------------------------------------------------
 
