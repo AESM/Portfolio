@@ -7,27 +7,20 @@ Projects by Ali
 
 - [Title](#projects-by-ali)
 - [Projects](#projects)
-  + [OurHouse](#ourhouse)
   + [Commander's Paramour](#commanders-paramour)
   + [KittyParty](#kittyparty)
   + [RAPTORSMACSS](#raptorsmacss)
   + [FunkyAnimatronicMixologyHenchmen](#funkyanimatronicmixologyhenchmen)
+  + [OurHouse](#ourhouse)
 - [Websites](#websites)
   + [SuitAndCape](#suitandcape)
   + [e-dapp](#e-dapp)
+- [Playground](#playground)
+  + [Node](#node)
 - [License](#license)
 - [Connect](#connect)
 
 ## Projects
-
-### OurHouse
-An iOS and Android mobile app for coordinating housemates' social events, chores, and payments.
-
-**Technologies**: Angular, Ionic, Rails, OAuth, Google+ API, Venmo API
-
-**Main Contributions**: Angular and Ionic, along with refactoring and modularizing the back-end
-
-**Source Code**: [Github.com/AESM/OurHouse_Central_Repo](https://github.com/AESM/OurHouse_Central_Repo)
 
 ### Commander's Paramour
 A Connect Four clone playable in a web browser.
@@ -52,9 +45,9 @@ A team chat app where users can only communicate in GIFs with messages.
 ### RAPTORSMACSS
 A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 
-**Technologies**: Sass (SCSS)
+**Technologies**: Sass (SCSS), Gulp
 
-**Features**: A highly modular and organized Sass (SCSS) boilerplate, loosely inspired by the SMACSS architecture pattern.  The naming convention is BEM based at its roots, but implemented in a way that the user can use whichever naming convention they prefer
+**Features**: On the basic level, it offers a barebones and well organized boilerplate for quick-starting web sites and web apps.  The optional custom gulpfile.js can be used to have Gulp compile the project's SCSS into a CSS and minified CSS, JavaScript into a single JS and minified JS file, provide error messages, and compile sourcemaps.
 
 **Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
 
@@ -69,6 +62,15 @@ A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
 
+### OurHouse
+An iOS and Android mobile app for coordinating housemates' social events, chores, and payments.
+
+**Technologies**: Angular, Ionic, Rails, OAuth, Google+ API, Venmo API
+
+**Main Contributions**: Angular and Ionic, along with refactoring and modularizing the backend
+
+**Source Code**: [Github.com/AESM/OurHouse_Central_Repo](https://github.com/AESM/OurHouse_Central_Repo)
+
 ## Websites
 
 ### SuitAndCape
@@ -76,7 +78,7 @@ My personal website and portfolio.
 
 **Website**: [SuitAndCape.github.io](https://SuitAndCape.github.io/)
 
-**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS
+**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS, Gulp
 
 **Source Code**: [Github.com/SuitAndCape/SuitAndCape.github.io](https://github.com/SuitAndCape/SuitAndCape.github.io)
 
@@ -85,9 +87,18 @@ A portfolio for Eric Lawrence Dapp.
 
 **Website**: [e-dapp.github.io](https://e-dapp.github.io/)
 
-**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS
+**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS, Gulp
 
 **Source Code**: [Github.com/e-dapp/e-dapp.github.io](https://github.com/e-dapp/e-dapp.github.io)
+
+## Playground
+
+Where I go to [play, experiment, and learn new technologies](https://github.com/AESM/Projects/blob/master/Playground).
+
+### Node
+Messing with Node.js.
+
+**Parsing API Data**: [Playground/Node/parsing-data](https://github.com/AESM/Projects/blob/master/Playground/Node/parsing-data)
 
 --------------------------------------------------------------------------
 

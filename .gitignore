@@ -1,7 +1,9 @@
-## Files matching these search terms will be ignored by Git
+# .gitignore
 
-####= Personal .gitignore File List
+####= SuitAndCape .gitignore File List
 ##======================================================================##
+
+## How to use .gitignore: https://help.github.com/articles/ignoring-files
 
 ## Backup files
 *.bak
