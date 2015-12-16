@@ -7,11 +7,11 @@ Projects by Ali
 
 - [Title](#projects-by-ali)
 - [Projects](#projects)
-  + [Commander's Paramour](#commanders-paramour)
   + [KittyParty](#kittyparty)
   + [RAPTORSMACSS](#raptorsmacss)
-  + [FunkyAnimatronicMixologyHenchmen](#funkyanimatronicmixologyhenchmen)
   + [OurHouse](#ourhouse)
+  + [Commander's Paramour](#commanders-paramour)
+  + [FunkyAnimatronicMixologyHenchmen](#funkyanimatronicmixologyhenchmen)
 - [Websites](#websites)
   + [SuitAndCape](#suitandcape)
   + [e-dapp](#e-dapp)
@@ -21,15 +21,6 @@ Projects by Ali
 - [Connect](#connect)
 
 ## Projects
-
-### Commander's Paramour
-A Connect Four clone playable in a web browser.
-
-**Technologies**: JavaScript, jQuery, HTML5, CSS3, Sass (SCSS), RAPTORSMACSS, Heroku
-
-**Features**: Two-player capabilities (shared screen or two browsers)
-
-**Source Code**: [Github.com/AESM/CommandersParamour](https://github.com/AESM/CommandersParamour)
 
 ### KittyParty
 A team chat app where users can only communicate in GIFs with messages.
@@ -42,6 +33,8 @@ A team chat app where users can only communicate in GIFs with messages.
 
 **Wireframe**: [Wireframe branch](https://github.com/AESM/KittyParty/tree/wireframe)
 
+**Plan of Attack**: [KittyParty SMSP](https://github.com/AESM/KittyParty/blob/SMSP/SMSP.md)
+
 ### RAPTORSMACSS
 A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 
@@ -50,6 +43,26 @@ A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
 **Features**: On the basic level, it offers a barebones and well organized boilerplate for quick-starting web sites and web apps.  The optional custom gulpfile.js can be used to have Gulp compile the project's SCSS into a CSS and minified CSS, JavaScript into a single JS and minified JS file, provide error messages, and compile sourcemaps.
 
 **Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
+
+**Plan of Attack**: [RAPTORSMACSS SMSP](https://github.com/SuitAndCape/RAPTORSMACSS/blob/SMSP/SMSP.md)
+
+### OurHouse
+An iOS and Android mobile app for coordinating housemates' social events, chores, and payments.
+
+**Technologies**: Angular, Ionic, Rails, OAuth, Google+ API, Venmo API
+
+**Main Contributions**: Angular and Ionic, along with refactoring and modularizing the backend
+
+**Source Code**: [Github.com/AESM/OurHouse_Central_Repo](https://github.com/AESM/OurHouse_Central_Repo)
+
+### Commander's Paramour
+A Connect Four clone playable in a web browser.
+
+**Technologies**: JavaScript, jQuery, HTML5, CSS3, Sass (SCSS), RAPTORSMACSS, Heroku
+
+**Features**: Two-player capabilities (shared screen or two browsers)
+
+**Source Code**: [Github.com/AESM/CommandersParamour](https://github.com/AESM/CommandersParamour)
 
 ### FunkyAnimatronicMixologyHenchmen
 
@@ -62,18 +75,13 @@ A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
 
-### OurHouse
-An iOS and Android mobile app for coordinating housemates' social events, chores, and payments.
-
-**Technologies**: Angular, Ionic, Rails, OAuth, Google+ API, Venmo API
-
-**Main Contributions**: Angular and Ionic, along with refactoring and modularizing the backend
-
-**Source Code**: [Github.com/AESM/OurHouse_Central_Repo](https://github.com/AESM/OurHouse_Central_Repo)
+**Plan of Attack**: [FunkyAnimatronicMixologyHenchmen SMSP](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen/blob/SMSP/SMSP.md)
 
 ## Websites
 
 ### SuitAndCape
+
+#### _Undergoing Reconstruction_
 My personal website and portfolio.
 
 **Website**: [SuitAndCape.github.io](https://SuitAndCape.github.io/)
@@ -83,7 +91,7 @@ My personal website and portfolio.
 **Source Code**: [Github.com/SuitAndCape/SuitAndCape.github.io](https://github.com/SuitAndCape/SuitAndCape.github.io)
 
 ### e-dapp
-A portfolio for Eric Lawrence Dapp.
+A minimalistic portfolio for Eric Lawrence Dapp.
 
 **Website**: [e-dapp.github.io](https://e-dapp.github.io/)
 
