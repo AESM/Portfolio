@@ -1,7 +1,7 @@
 # .gitignore
 
 ####= SuitAndCape .gitignore File List
-##======================================================================##
+##===========================================================================##
 
 ## How to use .gitignore: https://help.github.com/articles/ignoring-files
 
@@ -118,12 +118,12 @@ bin/stubs
 *.toc
 
 ####= GitHub .gitignore Files
-##======================================================================##
+##===========================================================================##
 
 ## Based on .gitignore file templates found on GitHub
 ## SOURCE: https://github.com/github/gitignore
 
-##== Haskell .gitignore (2015-06-29) ====================================#
+##== Haskell .gitignore (2015-06-29) =========================================#
 
 dist
 cabal-dev
@@ -142,7 +142,7 @@ cabal.sandbox.config
 *.hp
 .stack-work/
 
-##== Node .gitignore (2015-11-05) =======================================#
+##== Node .gitignore (2015-11-05) ============================================#
 
 ## Logs
 logs
@@ -180,7 +180,7 @@ node_modules
 ## Optional REPL history
 .node_repl_history
 
-##== Rails .gitignore (2015-01-21) ======================================#
+##== Rails .gitignore (2015-01-21) ===========================================#
 
   # *.rbc ## Ruby and Rails .gitignore
 capybara-*.html
@@ -220,7 +220,7 @@ bower.json
 ## Ignore pow environment settings
 .powenv
 
-##== Ruby .gitignore (2015-06-25) =======================================#
+##== Ruby .gitignore (2015-06-25) ============================================#
 
 *.gem
   # *.rbc ## Ruby and Rails .gitignore
@@ -257,7 +257,7 @@ build/
   # .ruby-version ## Ruby and Rails .gitignore
   # .ruby-gemset ## Ruby and Rails .gitignore
 
-##== Ruby and Rails .gitignore (2015-06-25) =============================#
+##== Ruby and Rails .gitignore (2015-06-25) ==================================#
 
 *.rbc
 /coverage/
@@ -276,7 +276,7 @@ build/
 ## unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
 
-##== SublimeText .gitignore (2014-09-01) ================================#
+##== SublimeText .gitignore (2014-09-01) =====================================#
 
 ## cache files for sublime text
 *.tmlanguage.cache
@@ -294,7 +294,7 @@ build/
 ## sftp configuration file
 sftp-config.json
 
-##== Tags .gitignore (2015-09-14) =======================================#
+##== Tags .gitignore (2015-09-14) ============================================#
 
 ## Ignore tags created by etags, ctags, gtags (GNU global) and cscope
 TAGS
@@ -312,13 +312,13 @@ cscope.out
 cscope.in.out
 cscope.po.out
 
-##== TextMate .gitignore (2010-11-22) ===================================#
+##== TextMate .gitignore (2010-11-22) ========================================#
 
 *.tmproj
 *.tmproject
 tmtags
 
-##== Unity .gitignore (2015-04-18) ======================================#
+##== Unity .gitignore (2015-04-18) ===========================================#
 
 /[Ll]ibrary/
 /[Tt]emp/
@@ -342,7 +342,7 @@ tmtags
 ## Unity3D Generated File On Crash Reports
 sysinfo.txt
 
-##== Vim .gitignore (2015-01-06) ========================================#
+##== Vim .gitignore (2015-01-06) =============================================#
 
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]

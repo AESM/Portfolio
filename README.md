@@ -1,22 +1,14 @@
 <!-- README.md -->
 
 Projects by Ali
-==========================================================================
+===============================================================================
 
 ## Contents
 
 - [Title](#projects-by-ali)
 - [Projects](#projects)
-  + [KittyParty](#kittyparty)
-  + [RAPTORSMACSS](#raptorsmacss)
-  + [OurHouse](#ourhouse)
-  + [Commander's Paramour](#commanders-paramour)
-  + [FunkyAnimatronicMixologyHenchmen](#funkyanimatronicmixologyhenchmen)
 - [Websites](#websites)
-  + [SuitAndCape](#suitandcape)
-  + [e-dapp](#e-dapp)
-- [Playground](#playground)
-  + [Node](#node)
+- [Playgrounds](#playgrounds)
 - [License](#license)
 - [Connect](#connect)
 
@@ -99,16 +91,16 @@ A minimalistic portfolio for Eric Lawrence Dapp.
 
 **Source Code**: [Github.com/e-dapp/e-dapp.github.io](https://github.com/e-dapp/e-dapp.github.io)
 
-## Playground
+## Playgrounds
 
 Where I go to [play, experiment, and learn new technologies](https://github.com/AESM/Projects/blob/master/Playground).
 
 ### Node
-Messing with Node.js.
+Consuming an API with Node.js.
 
 **Parsing API Data**: [Playground/Node/parsing-data](https://github.com/AESM/Projects/blob/master/Playground/Node/parsing-data)
 
---------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 ## License
 
@@ -118,11 +110,11 @@ The [LICENSE](https://github.com/AESM/Projects/blob/master/LICENSE) for this rep
 
 ## Connect
 
-|              :tophat:             |              :rocket:             |
-| --------------------------------- | --------------------------------- |
+|               :tophat:               |               :rocket:               |
+| ------------------------------------ | ------------------------------------ |
 **_SuitAndCape GitHub_** | https://github.com/SuitAndCape
 **_Personal GitHub_**    | https://github.com/AESM
 **_Website_**            | https://SuitAndCape.github.io/
 **_LinkedIn_**           | https://www.linkedin.com/in/SuitAndCape
-**_Dribbble_**           | https://dribbble.com/SuitAndCape
 **_Twitter_**            | https://twitter.com/SuitAndCape
+
