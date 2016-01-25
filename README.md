@@ -15,11 +15,9 @@ Projects by Ali
 ## Projects
 
 ### KittyParty
-A team chat app where users can only communicate in GIFs with messages.
+A team chat app where users can only communicate in GIFs with messages.  The user's message is tokenized and translated into a GIF through the Giphy API, then sent to the chatroom.
 
-**Technologies**: JavaScript (ES6), Angular, Node, Express, Socket.io, jQuery, Sass (SCSS), RAPTORSMACSS, Gulp, Giphy API
-
-**Features**: Tokenizes and translates a user's message into a GIF through the Giphy API
+**Technologies**: JavaScript (ES6), Angular, Node, Express, Socket.io, jQuery, Sass (SCSS), RAPTORFrame, Gulp, Giphy API
 
 **Source Code**: [Github.com/AESM/KittyParty](https://github.com/AESM/KittyParty)
 
@@ -27,28 +25,24 @@ A team chat app where users can only communicate in GIFs with messages.
 
 **Plan of Attack**: [KittyParty SMSP](https://github.com/AESM/KittyParty/blob/SMSP/SMSP.md)
 
-### RAPTORSMACSS
-A Sass (SCSS) boilerplate, inspired by [SMACSS](https://smacss.com/).
+### RAPTORFrame
+A light, modular, Gulp driven framework which assists in rapidly developing modern frontend projects.  The Sass (SCSS) boilerplate, also known as [RAPTORSMACSS](#raptorsmacss), is loosely based on the [SMACSS](https://smacss.com/) architecture pattern.
 
-**Technologies**: Sass (SCSS), Gulp
+**Technologies**: JavaScript, CSS3, HTML5, Sass (SCSS), Gulp, RAPTORSMACSS
 
-**Features**: On the basic level, it offers a barebones and well organized boilerplate for quick-starting web sites and web apps.  The optional custom gulpfile.js can be used to have Gulp compile the project's SCSS into a CSS and minified CSS, JavaScript into a single JS and minified JS file, provide error messages, and compile sourcemaps.
+**Source Code**: [Github.com/SuitAndCape/RAPTORFrame](https://github.com/SuitAndCape/RAPTORFrame)
 
-**Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
-
-**Plan of Attack**: [RAPTORSMACSS SMSP](https://github.com/SuitAndCape/RAPTORSMACSS/blob/SMSP/SMSP.md)
+**Plan of Attack**: [RAPTORFrame SMSP](https://github.com/SuitAndCape/RAPTORFrame/blob/SMSP/SMSP.md)
 
 ### OurHouse
 An iOS and Android mobile app for coordinating housemates' social events, chores, and payments.
 
 **Technologies**: Angular, Ionic, Rails, OAuth, Google+ API, Venmo API
 
-**Main Contributions**: Angular and Ionic, along with refactoring and modularizing the backend
-
 **Source Code**: [Github.com/AESM/OurHouse_Central_Repo](https://github.com/AESM/OurHouse_Central_Repo)
 
 ### Commander's Paramour
-A Connect Four clone playable in a web browser.
+A Connect Four clone, playable in a web browser.
 
 **Technologies**: JavaScript, jQuery, HTML5, CSS3, Sass (SCSS), RAPTORSMACSS, Heroku
 
@@ -56,14 +50,21 @@ A Connect Four clone playable in a web browser.
 
 **Source Code**: [Github.com/AESM/CommandersParamour](https://github.com/AESM/CommandersParamour)
 
+### RAPTORSMACSS
+A highly modular and organized Sass (SCSS) boilerplate. It is loosely inspired by the [SMACSS](https://smacss.com/) architecture pattern, with some layout liberties taken.
+
+**Technologies**: Sass (SCSS)
+
+**Source Code**: [Github.com/SuitAndCape/RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
+
+**Plan of Attack**: [RAPTORSMACSS SMSP](https://github.com/SuitAndCape/RAPTORSMACSS/blob/SMSP/SMSP.md)
+
 ### FunkyAnimatronicMixologyHenchmen
 
 #### _Work in Progress_
 A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Technologies**: Sass (SCSS)
-
-**Features**: An organized Sass (SCSS) toolset which includes CSS3 animation presets, mixins and functions that help developers write DRY code, and frequently used properties in the form of helpers.
 
 **Source Code**: [Github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
 
@@ -78,7 +79,7 @@ My personal website and portfolio.
 
 **Website**: [SuitAndCape.github.io](https://SuitAndCape.github.io/)
 
-**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS, Gulp
+**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORFrame, Gulp
 
 **Source Code**: [Github.com/SuitAndCape/SuitAndCape.github.io](https://github.com/SuitAndCape/SuitAndCape.github.io)
 
@@ -87,7 +88,7 @@ A minimalistic portfolio for Eric Lawrence Dapp.
 
 **Website**: [e-dapp.github.io](https://e-dapp.github.io/)
 
-**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORSMACSS, Gulp
+**Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORFrame, Gulp
 
 **Source Code**: [Github.com/e-dapp/e-dapp.github.io](https://github.com/e-dapp/e-dapp.github.io)
 
