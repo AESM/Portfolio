@@ -19,8 +19,8 @@ require 'awesome_print'
 class SeriesSolver
   attr_accessor :abn
 
-  def initialize(abn)
-    @abn = abn
+  def initialize(input_integers)
+    @abn = input_integers
   end
 
   def series_type_one

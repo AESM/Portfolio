@@ -50,14 +50,14 @@ A highly modular and organized Sass (SCSS) boilerplate. It is loosely inspired b
 
 **Source Code**: [Github – RAPTORSMACSS](https://github.com/SuitAndCape/RAPTORSMACSS)
 
-### FunkyAnimatronicMixologyHenchmen
+<!-- ### FunkyAnimatronicMixologyHenchmen
 
 #### _Work in Progress_
 A Sass (SCSS) function, animation/transition, mixin, and helper library.
 
 **Technologies**: Sass (SCSS)
 
-**Source Code**: [Github – FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen)
+**Source Code**: [Github – FunkyAnimatronicMixologyHenchmen](https://github.com/SuitAndCape/FunkyAnimatronicMixologyHenchmen) -->
 
 ## Websites
 
