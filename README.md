@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-Projects by Ali
+Ali Esmaili's Portfolio
 ===============================================================================
 
 ## Contents
@@ -26,7 +26,7 @@ My personal OS X configuration.  Contains custom `zsh` and `bash` preferences, a
 
 **Technologies**: Shell Script (Bash and Zsh)
 
-**Source Code**: [Github – BusinessMumu](https://github.com/AESM/dotfiles)
+**Source Code**: [Github – BusinessMuumuu](https://github.com/AESM/dotfiles)
 
 ### RAPTORSMACSS
 A highly modular and organized Sass (SCSS) boilerplate. It is loosely inspired by the [SMACSS](https://smacss.com/) architecture pattern, with some layout liberties taken.
