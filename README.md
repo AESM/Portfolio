@@ -15,19 +15,18 @@ Projects by Ali
 ## Projects
 
 ### RAPTORFrame
-A light, modular framework for rapid development of modern frontend projects.  Compiles and minifies SCSS and JavaScript files; creates sourcemaps; provides a Gulp workflow and NPM devtools with custom scripts.
+A light, modular framework for rapid development of modern frontend projects.  Compiles and minifies SCSS and JavaScript files; lints code; creates sourcemaps; provides a Gulp workflow and NPM devtools with custom scripts.
 
 **Technologies**: JavaScript, CSS3, HTML5, Sass (SCSS), Gulp, RAPTORSMACSS
 
 **Source Code**: [Github – RAPTORFrame](https://github.com/SuitAndCape/RAPTORFrame)
 
-
-### BusinessMumu
+### BusinessMuumuu
 My personal OS X configuration.  Contains custom `zsh` and `bash` preferences, aliases, Sublime Text settings, automated environment setup, and an installation file.
 
-**Technologies**: JavaScript, CSS3, HTML5, Sass (SCSS), Gulp, RAPTORSMACSS
+**Technologies**: Shell Script (Bash and Zsh)
 
-**Source Code**: [Github – BusinessMumu](https://github.com/AESM/BusinessMumu)
+**Source Code**: [Github – BusinessMumu](https://github.com/AESM/dotfiles)
 
 ### RAPTORSMACSS
 A highly modular and organized Sass (SCSS) boilerplate. It is loosely inspired by the [SMACSS](https://smacss.com/) architecture pattern, with some layout liberties taken.
@@ -84,7 +83,7 @@ A Connect Four clone, playable in a web browser.  Players may share a screen or 
 ### SuitAndCape
 My personal portfolio.
 
-**Website**: [SuitAndCape.github.io](http://SuitAndCape.github.io/)
+**Website**: [SuitAndCape.github.io/](http://SuitAndCape.github.io/)
 
 **Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORFrame, Gulp
 
@@ -93,7 +92,7 @@ My personal portfolio.
 ### e-dapp
 A minimalistic portfolio for Eric Lawrence Dapp.
 
-**Website**: [e-dapp.github.io](http://e-dapp.github.io/)
+**Website**: [e-dapp.github.io/](http://e-dapp.github.io/)
 
 **Technologies**: JavaScript, CSS3, HTML5, jQuery, Sass (SCSS), RAPTORFrame, Gulp
 
