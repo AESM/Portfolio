@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 Ali Esmaili's Portfolio
-===============================================================================
+================================================================================
 
 My [résumé](http://SuitAndCape.github.io/resume.pdf) can be found through my [personal website](http://SuitAndCape.github.io/).
 
@@ -21,14 +21,14 @@ An OS X system configuration, dotfiles, and applications setter-upper.  Contains
 
 **Source Code**: [Github – BusinessMuumuu](https://github.com/SuitAndCape/BusinessMuumuu)
 
+**Technologies**: Shell Script (Bash and Zsh)
+
 ### RAPTORFrame
 A light, modular framework for rapid development of modern frontend projects.  Compiles and minifies SCSS and JavaScript files; lints code; creates sourcemaps; provides a Gulp workflow and NPM devtools with custom scripts.
 
 **Source Code**: [Github – RAPTORFrame](https://github.com/SuitAndCape/RAPTORFrame)
 
 **Technologies**: JavaScript, CSS3, HTML5, Sass (SCSS), Gulp, RAPTORSMACSS, ESLint, Imagemin
-
-**Technologies**: Shell Script (Zsh and Bash)
 
 ### RAPTORSMACSS
 A highly modular and organized Sass (SCSS) boilerplate. It is loosely inspired by the [SMACSS](https://smacss.com/) architecture pattern, with some layout liberties taken.
@@ -111,7 +111,7 @@ Where I go to [play, experiment, and learn new technologies](https://github.com/
 - **A Bunch of Random Challenges**: [random-challenges](https://github.com/AESM/Portfolio/blob/master/Playground/Ruby/random-challenges)
 - **HackerRank: 30 Days of Code**: [thirty-days-of-code](https://github.com/AESM/Portfolio/blob/master/Playground/Ruby/thirty-days-of-code)
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ## License
 
