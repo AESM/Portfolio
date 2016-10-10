@@ -1,0 +1,30 @@
+# .editorconfig
+
+####= SuitAndCape Editor Configuration Settings
+##============================================================================##
+
+## @source http://EditorConfig.org/
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{bat,txt}]
+end_of_line = crlf
+
+[*.{c,cc,cpp,cs,go,h,hh,java,m,mm,php,py,rst,swift}]
+indent_size = 4
+
+[*.{css,haml,handlebars,hbs,hs,html,js,json,markdown,md,mdown,rb,scss,sls,xml,yaml,yml}]
+indent_size = 2
+
+[*.{diff,in,markdown,md,mdown,txt}]
+trim_trailing_whitespace = false
+
+[Makefile]
+indent_style = tab
